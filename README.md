@@ -5,9 +5,6 @@
 ## 📌 Overview
 AI Code Review is a comprehensive web and mobile application designed to assist developers in reviewing code using advanced AI capabilities. It leverages the Gemini API to analyze code, provide intelligent suggestions, and enhance overall code quality through automated reviews.
 
-[![GitHub stars](https://img.shields.io/github/stars/abhishekboadgurjar/ai-code-review?style=social)](https://github.com/abhishekboadgurjar/ai-code-review)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/abhishekboadgurjar/ai-code-review/pulls)
 
 ## 📂 Project Structure
 The project consists of three main components:
@@ -133,11 +130,11 @@ Scan this QR code to download directly:
 
 We welcome contributions to AI Code Review! Please follow these steps:
 
-1. [Fork the repository](https://github.com/abhishekboadgurjar/ai-code-review/fork)
+1. [Fork the repository](https://github.com/abhishekgurjarin/ai-code-review/fork)
 2. Create your feature branch: `git checkout -b feature/amazing-feature`
 3. Commit your changes: `git commit -m 'Add some amazing feature'`
 4. Push to the branch: `git push origin feature/amazing-feature`
-5. [Open a Pull Request](https://github.com/abhishekboadgurjar/ai-code-review/pulls)
+5. [Open a Pull Request](https://github.com/abhishekgurjarin/ai-code-review/pulls)
 
 Please read our [Contributing Guidelines](./CONTRIBUTING.md) for more details.
 
@@ -147,10 +144,8 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 📬 Contact
 
-- **GitHub**: [@abhishekboadgurjar](https://github.com/abhishekboadgurjar)
-- **Twitter**: [@abhishekjs](https://twitter.com/abhishekbgurjar)
-- **Email**: [abhishekgurjarofcl.com](abhishekgurjarofcl.com)
-- **Project Link**: [https://github.com/abhishekboadgurjar/ai-code-review](https://github.com/abhishekboadgurjar/ai-code-review)
+- **GitHub**: [@abhishekboadgurjar](https://github.com/abhishekgurjarin)
+- **Project Link**: [https://github.com/abhishekboadgurjar/ai-code-review](https://github.com/abhishekgurjarin/ai-code-review)
 
 ## 🙏 Acknowledgements
 
